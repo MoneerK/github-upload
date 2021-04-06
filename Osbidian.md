@@ -1,0 +1,13 @@
+- To open the command pallete press cmd-P
+- I enabled the following plugins:
+	- Starred
+	- Tagged 
+	- Today's not
+- I enabled the following options:
+	- Fold Heading
+	- Fold Indent
+- Check templates
+- Sync across platforms
+- Establish a workflow for each platform
+- how to make the title bar vertical? #Qs
+-  

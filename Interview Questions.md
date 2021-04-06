@@ -1,0 +1,18 @@
+**By subject:**
+- Helpdesk:
+	- 
+- Networking:
+	- 
+- System Administration:
+	- What is the server and how it works?
+	- What is the domain?
+	- What is ADC?
+	- What is schema and active directory?
+	- What are group policies?
+	- What is group policy objects?
+	- What is local group policy objects?
+	- 
+- Web Development:
+	- 
+- Information Security:
+	- 
